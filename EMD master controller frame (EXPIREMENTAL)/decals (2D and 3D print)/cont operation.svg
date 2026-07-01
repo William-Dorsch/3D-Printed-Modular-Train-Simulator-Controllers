@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 925.41 144.98">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 23px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        font-family: ArialNarrow-Bold, Arial;
+        font-size: 19px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x=".5" y=".5" width="864.57" height="119.06"/>
+  <text class="cls-2" transform="translate(313.65 25.48)"><tspan x="0" y="0">CONTROLLER OPER</tspan><tspan class="cls-6" x="231.28" y="0">A</tspan><tspan x="246.18" y="0">TION</tspan></text>
+  <text class="cls-3" transform="translate(16.33 49.7)"><tspan class="cls-7"><tspan x="0" y="0">REVERSER (FWD-NEU-REV)</tspan></tspan><tspan class="cls-7"><tspan x="0" y="18">1] REVERSER HANDLE IN</tspan></tspan><tspan class="cls-7" x="0" y="36">2] THROTTLE-S</tspan><tspan class="cls-1" x="112.15" y="36">T</tspan><tspan class="cls-7" x="121.03" y="36">O</tspan><tspan class="cls-1" x="132.8" y="36">P</tspan><tspan class="cls-9" x="142.56" y="36" xml:space="preserve"> OR IDLE</tspan><tspan class="cls-7"><tspan x="0" y="54">3] DYN BRK OFF</tspan></tspan></text>
+  <text class="cls-3" transform="translate(240.39 49.7)"><tspan class="cls-7" x="0" y="0">THROTTLE (S</tspan><tspan class="cls-5" x="99.02" y="0">T</tspan><tspan class="cls-7" x="107.91" y="0">O</tspan><tspan class="cls-1" x="119.67" y="0">P</tspan><tspan class="cls-7" x="129.43" y="0" xml:space="preserve"> THRU 8)</tspan><tspan class="cls-7"><tspan x="0" y="18">1] REVERSER HANDLE IN</tspan></tspan><tspan class="cls-7" x="0" y="36">2] REV</tspan><tspan class="cls-10" x="48.04" y="36"> </tspan><tspan class="cls-8" x="51.45" y="36">AN</tspan><tspan class="cls-5" x="73.21" y="36">Y</tspan><tspan class="cls-8" x="82.98" y="36" xml:space="preserve"> POSITION</tspan><tspan class="cls-7"><tspan x="0" y="54">3] DYN BRK-OFF</tspan></tspan></text>
+  <text class="cls-3" transform="translate(454 49.7)"><tspan class="cls-7"><tspan x="0" y="0">DYN BRK (OFF THRU 8)</tspan></tspan><tspan class="cls-7"><tspan x="0" y="18">1] REVERSER HANDLE IN</tspan></tspan><tspan class="cls-7"><tspan x="0" y="36">2] REVERSER FWD OR REV</tspan></tspan><tspan class="cls-7" x="0" y="54">3] THROTTLE-S</tspan><tspan class="cls-1" x="112.15" y="54">T</tspan><tspan class="cls-7" x="121.03" y="54">O</tspan><tspan class="cls-1" x="132.8" y="54">P</tspan><tspan class="cls-9" x="142.56" y="54" xml:space="preserve"> OR IDLE</tspan></text>
+  <text class="cls-3" transform="translate(681.42 49.7)"><tspan class="cls-7" x="0" y="0">TRAILING UNIT SET U</tspan><tspan class="cls-5" x="157.58" y="0">P</tspan><tspan class="cls-7"><tspan x="0" y="18">1] THROTTLE-IDLE</tspan></tspan><tspan class="cls-7"><tspan x="0" y="36">2] DYN BRK-OFF</tspan></tspan><tspan class="cls-7"><tspan x="0" y="54">3] REV HANDLE REM’D</tspan></tspan></text>
+</svg>
