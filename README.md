@@ -14,3 +14,9 @@ More files and better documentation will be added in the future.  This here is s
 </br>
 Join my [ommunications discord](https://discord.gg/bENGu79d4t) if you have any questions
 
+## Build Guides
+Here are some guides to build specific styles of control stands if you don't feel like kitbashing</br>
+</br>
+[EMD AAR Vertical Control Stand](https://docs.google.com/document/d/10thVEPsOx0cDApk6-fAYTyd_ROV3LtPCsUHUttJ4GZg/edit?usp=sharing)
+
+
