@@ -12,7 +12,7 @@ This project is far from perfect.  I'm just a guy with a 3d printer and too much
 </br>
 More files and better documentation will be added in the future.  This here is simply the foundation of something I plan to build upon over the next few years. </br>
 </br>
-Join my [ommunications discord](https://discord.gg/bENGu79d4t) if you have any questions
+Join my [communications discord](https://discord.gg/bENGu79d4t) if you have any questions
 
 ## Build Guides
 Here are some guides to build specific styles of control stands if you don't feel like kitbashing</br>
